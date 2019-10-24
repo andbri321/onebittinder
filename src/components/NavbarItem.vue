@@ -26,7 +26,6 @@
   }
 </style>
 
-
 <script>
   export default {
     props: ['path', 'icon'],
